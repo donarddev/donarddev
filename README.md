@@ -113,7 +113,7 @@ An AI-powered productivity tool designed to optimize your workflow:
 
 <div align="center">
 
-![GitHub contribution graph as a snake](https://github.com/donarddev/donarddev/raw/output/github-contribution-grid-snake-dark.svg)
+![snake gif](https://github.com/donarddev/donarddev/raw/output/github-contribution-grid-snake.svg)
 
 </div>
 
