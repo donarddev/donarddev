@@ -29,6 +29,23 @@ With experience in full project lifecycles, from designing robust APIs to optimi
 
 ### 💡 What I Do
 
+```
+┌─────────────────────────────────────────────────────┐
+│  🔹 AI & Machine Learning Integration               │
+│     Building intelligent systems that enhance UX     │
+│                                                      │
+│  🔹 API Architecture & Microservices                 │
+│     Designing scalable, secure backend systems       │
+│                                                      │
+│  🔹 Performance Optimization                         │
+│     Crafting lightning-fast apps with advanced        │
+│     caching & database optimization                  │
+│                                                      │
+│  🔹 Full-Stack Innovation                            │
+│     Creating seamless experiences from DB to UI      │
+└─────────────────────────────────────────────────────┘
+```
+
 </div>
 
 ---
@@ -164,7 +181,7 @@ Optimizing your workflow with AI-driven scheduling and reminders:
 
 <div align="center">
 
-![snake gif](https://github.com/donarddev/donarddev/raw/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/donarddev/donarddev/raw/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
