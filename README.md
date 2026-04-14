@@ -94,7 +94,7 @@ When I’m not immersed in building the future of tech, I’m contributing to op
 
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=donarddev&show_icons=true&theme=tokyonight&bg_color=0d1117&text_color=00d9ff&border_color=30363d&icon_color=79c0ff&hide_border=false&border_radius=10)](https://github.com/donarddev)
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=donarddev&theme=tokyonight&background=0d1117&stroke=00d9ff&ring=79c0ff&fire=ff006e&currStreakNum=00d9ff&dates=79c0ff&border=30363d&border_radius=10)](https://github.com/donarddev)
+[![GitHub Streak](https://streak-stats.demolab.com?user=donarddev&theme=tokyonight&background=0d1117&stroke=00d9ff&ring=79c0ff&fire=ff006e&currStreakNum=00d9ff&dates=79c0ff&border=30363d&border_radius=10)](https://github.com/donarddev)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=donarddev&layout=compact&theme=tokyonight&bg_color=0d1117&text_color=00d9ff&border_color=30363d&hide_border=false&border_radius=10)](https://github.com/donarddev)
 
@@ -154,7 +154,7 @@ Optimizing your workflow with AI-driven scheduling and reminders:
 
 <div align="center">
 
-[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=donarddev&theme=github-compact&bg_color=0d1117&color=00d9ff&line=79c0ff&point=ff006e&area=true&hide_border=false)](https://github.com/donarddev)
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=donarddev&theme=github-compact&bg_color=0d1117&color=00d9ff&line=79c0ff&point=ff006e&area=true&hide_border=false)](https://github.com/donarddev)
 
 </div>
 
@@ -164,7 +164,7 @@ Optimizing your workflow with AI-driven scheduling and reminders:
 
 <div align="center">
 
-![snake gif](https://github.com/donarddev/donarddev/raw/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/donarddev/donarddev/raw/output/github-contribution-grid-snake-dark.svg)
 
 </div>
 
