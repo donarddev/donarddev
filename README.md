@@ -1,38 +1,125 @@
-# Profile Header
+<img align="center" alt="Banner" src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif"/>
 
-Hello! My name is [Your Name] and I'm a [Your Title] based in [Your Location]. Welcome to my GitHub profile!
+<h1 align="left">
+  <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
+  Hi, I'm <strong>donarddev</strong>
+</h1>
 
-## Social Links
+<h3>Full Stack Developer |• Python • Flutter • Laravel • React</h3>
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Twitter](https://twitter.com/yourprofile)
-- [Portfolio](https://yourportfolio.com)
+<div align="left">
+  <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
-## About Me
+  <p>
+    I'm a full-stack developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
+    From sleek UIs to scalable APIs, I build digital products that feel fast, intuitive, and enjoyable.
+  </p>
 
-I'm passionate about [your passion or mission statement]. I’ve worked on numerous projects that focus on [areas of expertise]. I believe in constantly evolving and pushing the limits of technology!
+  <p>
+    <img src="https://img.shields.io/badge/🌍_India-1e1e2e?style=for-the-badge" />
+    <a href="mailto:midhunnk2019@gmail.com"><img src="https://img.shields.io/badge/📧_midhunnk2019@gmail.com-1e1e2e?style=for-the-badge" /></a>
+    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
+  </p>
 
-## Tech Stack
+<h3>🌐 Socials</h3>
+  
+<p align="left">
+  <a href="https://discord.com/users/midhun_n">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logoColor=white" />
+  </a>
 
-| Technology     | Experience Level |
-|----------------|------------------|
-| JavaScript     | Expert           |
-| Python         | Intermediate      |
-| React          | Expert           |
-| Node.js       | Intermediate      |
-| SQL            | Intermediate      |
+  <a href="https://github.com/donarddev">
+    <img src="https://img.shields.io/badge/GitHub-1A1A1A?style=for-the-badge&logoColor=white" />
+  </a>
 
-## GitHub Stats
+  <a href="https://instagram.com/donard">
+    <img src="https://img.shields.io/badge/Instagram-E1306C?style=for-the-badge&logoColor=white" />
+  </a>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=donarddev&show_icons=true&hide_title=true)
+  <a href="https://www.facebook.com/donard.lleno">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://www.geeksforgeeks.org/">
+    <img src="https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
+  </a>
 
-## Featured Projects
+  <a href="https://www.w3schools.com/">
+    <img src="https://img.shields.io/badge/W3Schools-04AA6D?style=for-the-badge&logo=w3schools&logoColor=white" />
+  </a>
+  
+  <a href="https://www.youtube.com/">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logoColor=white" />
+  </a>
+</p>
 
-- [Project 1](https://github.com/donarddev/project1): A brief description of project 1.
-- [Project 2](https://github.com/donarddev/project2): A brief description of project 2.
 
-## Support Me
+  <img src="https://komarev.com/ghpvc/?username=Midhun-Nk&style=flat-square&color=blue" alt="Profile Visit"/>
+</div>
 
-If you like my work, you can support me by buying me a coffee!
+<br clear="all" />
 
-[![Buy Me a Coffee](https://www.buymeacoffee.com/assets/img/marketplace/button-yellow.png)](https://www.buymeacoffee.com/yourprofile)
+
+## 🛠️ Skills
+<p align="center">
+<table>
+<tr>
+<td width="50%" align="center">
+<h3>💻 Programming Languages</h3>
+
+ <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,java,php,dart,c,typescript" />
+<br/><br/>
+
+</td>
+
+<td width="50%" align="center">
+   <h3>📚 Frameworks & Libraries</h3>
+<img src="https://skillicons.dev/icons?i=react,nodejs,flask,flutter,nextjs,tailwind,bootstrap,laravel,vue,fastapi" />
+</td>
+
+
+
+</tr>
+<tr>
+<td width="50%" align="center">
+  <h3>🗄️ Databases</h3>
+    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql" />
+<br/><br/>
+
+</td>
+
+<td width="50%" align="center">
+    <h3>🧰 Tools & Platforms</h3>
+    <img src="https://skillicons.dev/icons?i=git,figma,vscode,gcp,postman,vercel,docker,github" />
+</td>
+
+</tr>
+
+
+</tr>
+
+
+</table>
+</p>
+
+
+
+
+
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=Midhun-Nk&theme=dark&hide_border=true" alt="Streak" />
+</div>
+
+---
+
+## ❤️ Support Me
+
+<p align="center">
+  <a href="https://www.buymeacoffee.com/midhun_mike">
+    <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
+  </a>
+</p>
