@@ -1,6 +1,6 @@
 <img align="center" alt="Banner" src="https://i.pinimg.com/originals/ca/26/2e/ca262e0354eea311c41134c3e4bc3bc2.gif"/>
 
-<h1 align="left">
+<h1 align="center">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
   Hi, I'm <strong>donarddev</strong>
 </h1>
