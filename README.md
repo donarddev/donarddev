@@ -12,7 +12,7 @@
 
   <p>
     I'm a dedicated developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
-    From sleek UIs to scalable APIs, I build digital products that feel fast, intuitive, enjoyable and innovative.
+    From sleek UIs to scalable APIs, I build products that feel fast, intuitive, enjoyable and innovative.
   </p>
 
   <p>
