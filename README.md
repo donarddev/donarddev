@@ -18,8 +18,7 @@
   <p>
     <img src="https://img.shields.io/badge/🇵🇭_Philippines-0038A8?style=for-the-badge&logoColor=white" />
     <a href="mailto:dolleno@nemsu.edu.ph"><img src="https://img.shields.io/badge/Email-dolleno@nemsu.edu.ph-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_(Web_Development)-1e1e2e?style=for-the-badge" />
-    <img src="https://img.shields.io/badge/🥷_Vigilante_(Secret)-1e1e2e?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/🤝_Open_to_Collab_-1e1e2e?style=for-the-badge" />
   </p>
 
 <h3>🌐 Socials</h3>
