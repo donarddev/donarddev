@@ -11,7 +11,7 @@
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-    I'm a dedicated developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
+    I'm a dedicated developer who loves turning ideas into smooth, functional, and visually engaging digital experiences.  
     From sleek UIs to scalable APIs, I build products that feel fast, intuitive, enjoyable and innovative.
   </p>
 
@@ -50,7 +50,7 @@
 </p>
 
 
-  <img src="https://komarev.com/ghpvc/?username=Midhun-Nk&style=flat-square&color=blue" alt="Profile Visit"/>
+  <img src="https://komarev.com/ghpvc/?username=donarddev&style=flat-square&color=blue" alt="Profile Visit"/>
 </div>
 
 <br clear="all" />
@@ -101,8 +101,27 @@
 ## 📊 GitHub Stats
 
 <div align="center">
+  <h3>🔥 Contribution Streak</h3>
+  <img src="https://streak-stats.demolab.com?user=donarddev&theme=dark&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+  
+  <br/><br/>
+  
+  <h3>📈 Overall Statistics</h3>
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api?username=donarddev&theme=dark&hide_border=true&show_icons=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+      </td>
+      <td width="50%" align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=donarddev&theme=dark&hide_border=true&layout=compact" alt="Top Languages" />
+      </td>
+    </tr>
+  </table>
+  
   <br/>
-  <img src="https://streak-stats.demolab.com?user=Midhun-Nk&theme=dark&hide_border=true" alt="Streak" />
+  
+  <h3>🏆 Contribution Graph</h3>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=donarddev&bg_color=1a1a1a&color=58a6ff&line=58a6ff&point=e1e4e8&hide_border=true&theme=dark" alt="Contribution Graph" />
 </div>
 
 ---
