@@ -2,7 +2,7 @@
 
 <h1 align="center">
   <img src="https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif" width="28" />
-  Hi, I'm <strong>donarddevvvvvvvv</strong>
+  Hi, I'm <strong>donarddev</strong>
 </h1>
 
 <h3>Full Stack Developer |• Python • Flutter • Laravel • React</h3>
@@ -11,7 +11,7 @@
   <img align="right" width="350" src="https://user-images.githubusercontent.com/74038190/221352989-518609ab-b4d1-459e-929f-a08cd2bd9b3c.gif" />
 
   <p>
-  I'm a dedicated developer focused on building practical and efficient digital solutions.  
+  I'm a dedicated person focused on building practical and efficient digital solutions.  
   I enjoy turning ideas into responsive interfaces and well-structured systems that are both functional and user-friendly.  
   From frontend design to backend logic, I aim to create applications that are clean, scalable, and reliable.
   </p>
