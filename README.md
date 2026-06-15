@@ -80,7 +80,7 @@
 <tr>
 <td width="50%" align="center">
   <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql,laragon" />
+    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql" />
 <br/><br/>
 
 </td>
