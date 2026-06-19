@@ -56,48 +56,43 @@
 
 <br clear="all" />
 
-
 ## 🛠️ Skills
-<p align="center">
+
+<div align="center">
+
 <table>
 <tr>
+
 <td width="50%" align="center">
 <h3>💻 Programming Languages</h3>
-
- <img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,java,php,dart,typescript" />
+<img src="https://skillicons.dev/icons?i=html,css,js,python,cpp,java,php,dart" />
 <br/><br/>
-
 </td>
 
 <td width="50%" align="center">
-   <h3>📚 Frameworks & Libraries</h3>
-<img src="https://skillicons.dev/icons?i=react,flutter,tailwind,laravel,vue,fastapi" />
+<h3>📚 Frameworks</h3>
+<img src="https://skillicons.dev/icons?i=react,flutter,laravel" />
 </td>
 
-
-
 </tr>
+
 <tr>
+
 <td width="50%" align="center">
-  <h3>🗄️ Databases</h3>
-    <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,postgresql" />
+<h3>🗄️ Databases</h3>
+<img src="https://skillicons.dev/icons?i=firebase,supabase,mysql,postgresql" />
 <br/><br/>
-
 </td>
 
 <td width="50%" align="center">
-    <h3>🧰 Tools & Platforms</h3>
-    <img src="https://skillicons.dev/icons?i=git,figma,vscode,postman,github" />
+<h3>🧰 Tools & Platforms</h3>
+<img src="https://skillicons.dev/icons?i=git,figma,vscode,postman,github" />
 </td>
 
 </tr>
-
-
-</tr>
-
 </table>
-</p>
 
+</div>
 
 ## 📊 GitHub Stats
 
