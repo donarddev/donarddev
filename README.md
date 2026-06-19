@@ -125,7 +125,11 @@
 ## ❤️ Support Me
 
 <p align="center">
-  <a href="https://www.buymeacoffee.com">
+  <a href="https://donarddev.github.io/donarddev/support.html" target="_blank">
     <img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200"/>
   </a>
+</p>
+
+<p align="center">
+  ☕ Click the button to view my GCash QR, email, and send a message
 </p>
